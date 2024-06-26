@@ -15,7 +15,7 @@ This guide will focus on Windows, but you can find information for other OS's he
 
 
 # The wireless method
-1. Go to the ````Releases```` page
+1. Go to the ````Releases```` page (https://github.com/unassignedd/scrcpy-wirelessly/releases)
 2. Download ````scrcpy-wireless.bat````
 3. Place the file to the scrcpy directory
 4. Run the batch file
